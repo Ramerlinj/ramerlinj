@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola, soy Ramerlin! 👋<br><br>Soy un Desarrollador FrontEnd Junior apasionado por crear interfaces web intuitivas, responsivas y visualmente atractivas.🌐 Me encanta transformar ideas en código y aprender nuevas tecnologías para mejorar mis habilidades cada día. 🚀
+¡Hola, soy Ramerlin! 👋<br><br>Soy un Desarrollador Front End Junior apasionado por crear interfaces web intuitivas, responsivas y visualmente atractivas.🌐 Me encanta transformar ideas en código y aprender nuevas tecnologías para mejorar mis habilidades cada día. 🚀
 
 
 ## 🌐 Socials:
