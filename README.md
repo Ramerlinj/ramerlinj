@@ -14,6 +14,5 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramerlinj&label=Profile%20views&color=0e75b6&style=flat" alt="ramerlinj" /> </p>
-[![](https://visitcount.itsvg.in/api?id=ramerlinj&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
